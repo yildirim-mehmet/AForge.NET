@@ -1,8 +1,9 @@
 AForge.NET Framework
 http://www.aforgenet.com/framework
 ==================================
-
-Copyright © AForge.NET, 2006-2013
+
+
+Copyright Â© AForge.NET, 2006-2013
 contacts@aforgenet.com
 
 AForge.NET is a C# framework designed for developers and researchers
@@ -11,3 +12,5 @@ processing, neural networks, genetic algorithms, machine learning,
 robotics, etc.
 
 Please, contact project owners for any offers, remarks, ideas, etc.
+
+This project works with classic .net architecture up to 4.5 framework at most. 
